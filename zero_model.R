@@ -5,7 +5,6 @@
 #' @param value Numeric variable in the data
 #'
 #' @importFrom pscl zeroinfl
-#' @importFrom pscl predict
 #'
 #' @export
 #'

@@ -9,7 +9,6 @@
 #' @importFrom plyr summarise
 #'
 #' @importFrom ggplot2 ggplot
-#' @importFrom ggplot2 geom_hist
 #' @importFrom ggplot2 geom_vline
 #'
 #' @export

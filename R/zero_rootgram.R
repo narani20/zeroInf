@@ -6,7 +6,7 @@
 #'
 #' @importFrom pscl zeroinfl
 #' @importFrom graphics par
-#' @importFrom coutreg rootogram
+#' @importFrom countreg rootogram
 #'
 #' @export
 #'
